@@ -1,0 +1,11 @@
+Name of Quantlet : 'Metcalfe_Law'
+
+Published in : 'Metcalfe_Law'
+
+Description : 'Metcalfe Law for cryptocurrencies.'
+
+Keywords : 'Metcalfe Law, Cryptocurrencies, Bitcoin, Estimation, Herding'
+
+Author : 'Alexandra Conda'
+
+Submitted : '12 May 2024'
